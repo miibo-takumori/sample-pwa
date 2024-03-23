@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    'miibo-takumori.gihub.io/sample-pwa',
+    'miibo-takumori.github.io/sample-pwa',
 ];
 
 self.addEventListener('install', function(event) {
